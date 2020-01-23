@@ -9,6 +9,7 @@ Crowdsourced. (2020) 2019-nCoV linelist [Accessed: insert date]. Retrieved from:
 # FAQ 
 
 Q: Why am is this the suggested link instead of the google drive where the data is kept?
+
 A: Because google links are very long.
 
 # Other resources
