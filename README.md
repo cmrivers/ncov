@@ -16,14 +16,10 @@ A: Because google links are very long.
 
 # Other resources
 
-Hong Kong publishes case details of suspected cases, including negative results.
-https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
+Hong Kong publishes case details of suspected cases, including negative results. [Link](https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf)
 
-Dr. Kaiyun Sun is maintaining a spreadsheet of case counts and a line list
-https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1449891965
+Dr. Kaiyun Sun is maintaining a spreadsheet of case counts and a line list. [Link](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1449891965)
 
-Website with province government sources for cases (updated 1/23): 
-https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
+Website with province government sources for cases (updated 1/23). [Link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 
-Repository for situation reports
-http://recombinomics.co/forum/432-china-2019-ncov/
+Repository for situation reports. [Link](http://recombinomics.co/forum/432-china-2019-ncov/)
