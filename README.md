@@ -10,7 +10,7 @@ This resource is made possible thanks to volunteers. The list of contributors is
 
 # FAQ 
 
-Q: Why am is this the suggested link instead of the google drive where the data is kept?
+Q: Why use github as a landing page when the data are kept on a google sheet?
 
 A: Because google links are very long.
 
