@@ -6,7 +6,7 @@ A crowdsourced line list is being compiled on a [google sheet.](https://docs.goo
 
 Crowdsourced. (2020) 2019-nCoV line list [Accessed: insert date]. Retrieved from: http://github.com/cmrivers/ncov
 
-This resource is made possible thanks to volunteers. The list of contributors is available [here](https://docs.google.com/document/d/1WAjB2Zhcff2YVcppWedzkIlZ1y5dw5Z5myEVOSwOHQQ/edit#heading=h.u7xqmb95ngkl)
+This resource is made possible thanks to volunteers. The list of contributors is available [here.](https://docs.google.com/document/d/1WAjB2Zhcff2YVcppWedzkIlZ1y5dw5Z5myEVOSwOHQQ/edit#heading=h.u7xqmb95ngkl)
 
 # FAQ 
 
