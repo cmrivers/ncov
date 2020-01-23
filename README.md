@@ -20,8 +20,8 @@ https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 Dr. Kaiyun Sun is maintaining a spreadsheet of case counts and a line list
 https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1449891965
 
-Latest situation of reported cases of Severe Respiratory Disease associated with a Novel Infectious Agent, Cases 116-176:
-https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
-
 Website with province government sources for cases (updated 1/23): 
 https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
+
+Repository for situation reports
+http://recombinomics.co/forum/432-china-2019-ncov/
