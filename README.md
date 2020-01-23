@@ -4,7 +4,7 @@ A crowdsourced line list is being compiled at: https://bit.ly/2Rj29c2. Note ther
 
 # Citation information
 
-Crowdsourced. (2020) 2019-nCoV linelist [Accessed: insert date]. Retrieved from: http://github.com/cmrivers/ncov
+Crowdsourced. (2020) 2019-nCoV line list [Accessed: insert date]. Retrieved from: http://github.com/cmrivers/ncov
 
 This resource is made possible thanks to volunteers. The list of contributors is available at https://bit.ly/3aF6DkG.
 
