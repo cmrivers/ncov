@@ -1,25 +1,3 @@
-# nCoV
+This paper is from the China Centers for Disease Control and Prevention Weekly journal. I am posting it here because the website often fails to load.
 
-A crowdsourced line list is being compiled on a [google sheet.](https://docs.google.com/spreadsheets/d/1lA1Q73U6PhWMmnuZlTfooYjKKQsYUn7x5NrL1Oxi8vw/edit#gid=0) Note there are two tabs.
-
-# Citation information
-
-Crowdsourced. (2020) 2019-nCoV line list [Accessed: insert date]. Retrieved from: http://github.com/cmrivers/ncov
-
-This resource is made possible thanks to volunteers. The list of contributors is available [here.](https://docs.google.com/document/d/1WAjB2Zhcff2YVcppWedzkIlZ1y5dw5Z5myEVOSwOHQQ/edit#heading=h.u7xqmb95ngkl)
-
-# FAQ 
-
-Q: Why use github as a landing page when the data are kept on a google sheet?
-
-A: Because google links are very long.
-
-# Other resources
-
-Hong Kong publishes case details of suspected cases, including negative results. [Link](https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf)
-
-Dr. Kaiyun Sun is maintaining a spreadsheet of case counts and a line list. [Link](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1449891965)
-
-Website with province government sources for cases (updated 1/23). [Link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
-
-Repository for situation reports. [Link](http://recombinomics.co/forum/432-china-2019-ncov/)
+Original link: http://weekly.chinacdc.cn/fileCCDCW/journal/article/ccdcw/newcreate/COVID-19.pdf;
